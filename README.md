@@ -29,3 +29,12 @@ conda activate visa
 ```cmd
 pip install -r requirments.txt
 ```
+
+
+## Workflow:               # In worksflow first we need to update constants later entity and so on as listed below.
+
+1. constants
+2. entity
+3. components
+4. pipeline
+5.
